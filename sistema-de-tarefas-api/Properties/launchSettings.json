@@ -10,7 +10,7 @@
   },
   "profiles": {
     "sistema_de_tarefas_api": {
-      "commandName": "Project",
+      "commandName": "Project ",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
