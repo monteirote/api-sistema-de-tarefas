@@ -1,3 +1,5 @@
+using sistema_de_tarefas_api.Enums;
+
 namespace sistema_de_tarefas_api.Models;
 
 public class TarefaModel
@@ -8,5 +10,5 @@ public class TarefaModel
     
     public string? Descricao { get; set; }
 
-    public int Status { get; set; }
+    public StatusTarefa Status { get; set; }
 }
